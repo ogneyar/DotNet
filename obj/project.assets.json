@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Отрад\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\VSCode\\DotNet\\DotNet.csproj",
+      "projectUniqueName": "C:\\VSCode\\dotnet\\DotNet.csproj",
       "projectName": "DotNet",
-      "projectPath": "G:\\VSCode\\DotNet\\DotNet.csproj",
-      "packagesPath": "C:\\Users\\Отрад\\.nuget\\packages\\",
-      "outputPath": "G:\\VSCode\\DotNet\\obj\\",
+      "projectPath": "C:\\VSCode\\dotnet\\DotNet.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\VSCode\\dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Отрад\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
