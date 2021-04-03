@@ -78,3 +78,4 @@ C:\VSCode\dotnet\obj\Debug\net5.0\ref\DotNet.dll
 C:\VSCode\dotnet\obj\Debug\net5.0\DotNet.pdb
 C:\VSCode\dotnet\obj\Debug\net5.0\DotNet.genruntimeconfig.cache
 C:\VSCode\dotnet\obj\Debug\net5.0\DotNet.csproj.CopyComplete
+C:\VSCode\DotNet\obj\Debug\net5.0\Razor\Pages\Tests.cshtml.g.cs

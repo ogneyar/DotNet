@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\VSCode\\dotnet\\DotNet.csproj",
+  "FilePath": "c:\\VSCode\\DotNet\\DotNet.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,37 +15603,42 @@
   "RootNamespace": "DotNet",
   "Documents": [
     {
-      "FilePath": "c:\\VSCode\\dotnet\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\VSCode\\DotNet\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\VSCode\\dotnet\\Pages\\Index.cshtml",
+      "FilePath": "c:\\VSCode\\DotNet\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\VSCode\\dotnet\\Pages\\Error.cshtml",
+      "FilePath": "c:\\VSCode\\DotNet\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\VSCode\\dotnet\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\VSCode\\DotNet\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\VSCode\\dotnet\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\VSCode\\DotNet\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\VSCode\\dotnet\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\VSCode\\DotNet\\Pages\\Tests.cshtml",
+      "TargetPath": "Pages\\Tests.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\VSCode\\DotNet\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\VSCode\\dotnet\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\VSCode\\DotNet\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }

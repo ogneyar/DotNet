@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSCode\\dotnet\\DotNet.csproj": {}
+    "C:\\VSCode\\DotNet\\DotNet.csproj": {}
   },
   "projects": {
-    "C:\\VSCode\\dotnet\\DotNet.csproj": {
+    "C:\\VSCode\\DotNet\\DotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSCode\\dotnet\\DotNet.csproj",
+        "projectUniqueName": "C:\\VSCode\\DotNet\\DotNet.csproj",
         "projectName": "DotNet",
-        "projectPath": "C:\\VSCode\\dotnet\\DotNet.csproj",
+        "projectPath": "C:\\VSCode\\DotNet\\DotNet.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\VSCode\\dotnet\\obj\\",
+        "outputPath": "C:\\VSCode\\DotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
